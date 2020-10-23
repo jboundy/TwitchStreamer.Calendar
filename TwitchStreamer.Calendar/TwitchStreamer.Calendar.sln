@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitchStreamer.Calendar.DAL", "TwitchStreamer.Calendar.DAL\TwitchStreamer.Calendar.DAL.csproj", "{5A6337B8-10DA-4606-B44B-69CD193C87A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitchStreamer.Calendar.DAL.Tests", "TwitchStreamer.Calendar.DAL.Tests\TwitchStreamer.Calendar.DAL.Tests.csproj", "{AC97C3FC-6CFA-4E6C-91EF-315C7872B828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchStreamer.Calendar.Panel", "TwitchStreamer.Calendar.Panel\TwitchStreamer.Calendar.Panel.csproj", "{3E95444E-AA10-4472-9A44-6274360EB9FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchStreamer.Calendar.Web", "TwitchStreamer.Calendar.Web\TwitchStreamer.Calendar.Web.csproj", "{D10575C6-095D-4798-8D10-D0FC0F1F2CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6337B8-10DA-4606-B44B-69CD193C87A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6337B8-10DA-4606-B44B-69CD193C87A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6337B8-10DA-4606-B44B-69CD193C87A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6337B8-10DA-4606-B44B-69CD193C87A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC97C3FC-6CFA-4E6C-91EF-315C7872B828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC97C3FC-6CFA-4E6C-91EF-315C7872B828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC97C3FC-6CFA-4E6C-91EF-315C7872B828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC97C3FC-6CFA-4E6C-91EF-315C7872B828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E95444E-AA10-4472-9A44-6274360EB9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E95444E-AA10-4472-9A44-6274360EB9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E95444E-AA10-4472-9A44-6274360EB9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E95444E-AA10-4472-9A44-6274360EB9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10575C6-095D-4798-8D10-D0FC0F1F2CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10575C6-095D-4798-8D10-D0FC0F1F2CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10575C6-095D-4798-8D10-D0FC0F1F2CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10575C6-095D-4798-8D10-D0FC0F1F2CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {614E588E-CAF8-4834-A93F-F9620C2891F2}
+	EndGlobalSection
+EndGlobal

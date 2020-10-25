@@ -4,6 +4,5 @@ C:\source\TwitchStreamer.Calendar\TwitchStreamer.Calendar\TwitchStreamer.Calenda
 C:\source\TwitchStreamer.Calendar\TwitchStreamer.Calendar\TwitchStreamer.Calendar.DAL\obj\Debug\netcoreapp3.1\TwitchStreamer.Calendar.DAL.csprojAssemblyReference.cache
 C:\source\TwitchStreamer.Calendar\TwitchStreamer.Calendar\TwitchStreamer.Calendar.DAL\obj\Debug\netcoreapp3.1\TwitchStreamer.Calendar.DAL.AssemblyInfoInputs.cache
 C:\source\TwitchStreamer.Calendar\TwitchStreamer.Calendar\TwitchStreamer.Calendar.DAL\obj\Debug\netcoreapp3.1\TwitchStreamer.Calendar.DAL.AssemblyInfo.cs
-C:\source\TwitchStreamer.Calendar\TwitchStreamer.Calendar\TwitchStreamer.Calendar.DAL\obj\Debug\netcoreapp3.1\TwitchStreamer.Calendar.DAL.csproj.CoreCompileInputs.cache
 C:\source\TwitchStreamer.Calendar\TwitchStreamer.Calendar\TwitchStreamer.Calendar.DAL\obj\Debug\netcoreapp3.1\TwitchStreamer.Calendar.DAL.dll
 C:\source\TwitchStreamer.Calendar\TwitchStreamer.Calendar\TwitchStreamer.Calendar.DAL\obj\Debug\netcoreapp3.1\TwitchStreamer.Calendar.DAL.pdb
